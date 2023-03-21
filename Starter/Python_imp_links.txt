@@ -1,0 +1,2 @@
+Pypi.org ----> has the software developer and share by other people
+AskPython.con ---> a sort of python documentation
